@@ -11,7 +11,7 @@ public class IT24100305Lab4Q2 {
 			return;
     		}
 		
-		System.out.print("Please enter the exam marks (out of 100): ");
+		System.out.print("Please enter the lab submission marks (out of 100): ");
 		int LabMark = input.nextInt();
 
 		if (LabMark<0||LabMark>100) {
